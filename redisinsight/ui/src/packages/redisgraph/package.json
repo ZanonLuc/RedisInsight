@@ -43,7 +43,7 @@
   "devDependencies": {
     "@parcel/compressor-brotli": "2.3.2",
     "@parcel/compressor-gzip": "2.3.2",
-    "@parcel/transformer-less": "2.3.2",
+    "@parcel/transformer-less": "2.9.3",
     "@types/d3": "^7.1.0",
     "@types/react-json-tree": "^0.13.0",
     "concurrently": "^6.3.0",
