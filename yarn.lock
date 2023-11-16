@@ -6079,10 +6079,10 @@ electron-updater@^5.0.5:
     semver "^7.3.5"
     typed-emitter "^2.1.0"
 
-electron@25.1.1:
-  version "25.1.1"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-25.1.1.tgz#b7aaf0d66a56fbbbad987c13cee108642f63bd50"
-  integrity sha512-WvFUfVsJn6YiP35UxdibYVjU2LceastyMm4SVp2bmb4XvKEvItAIiwxgm7tPC5Syl1243aRCvQLqr84sZ71pyQ==
+electron@25.9.5:
+  version "25.9.5"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-25.9.5.tgz#c030368ebe1b40580e781d89fa8ce7ef19202692"
+  integrity sha512-gM7GXUSd3JVRcYbBnNOtZeNnE5MCJjtZTT8QyIxJvpQ0Dh9dz3hTuEL62dOwnMFW/l47ACQ6es/8qi01P4QGZA==
   dependencies:
     "@electron/get" "^2.0.0"
     "@types/node" "^18.11.18"
