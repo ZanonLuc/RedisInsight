@@ -29,7 +29,7 @@ COPY --from=front /usr/src/app/redisinsight/api/static ./static
 COPY --from=front /usr/src/app/redisinsight/api/defaults ./defaults
 RUN yarn run build:prod
 
-FROM node:18.15.0-slim
+FROM node:18.19.0-slim
 # Set up mDNS functionality, to play well with Redis Enterprise
 # clusters on the network.
 RUN set -ex \
