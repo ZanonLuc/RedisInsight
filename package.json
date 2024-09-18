@@ -196,7 +196,7 @@
     "mini-css-extract-plugin": "2.7.2",
     "moment": "^2.29.3",
     "monaco-editor-webpack-plugin": "^6.0.0",
-    "msw": "^0.45.0",
+    "msw": "^2.4.8",
     "node-sass": "^8.0.0",
     "opencollective-postinstall": "^2.0.3",
     "react-hot-loader": "^4.13.0",
