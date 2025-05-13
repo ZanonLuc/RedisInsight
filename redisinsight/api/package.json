@@ -54,7 +54,7 @@
     "@nestjs/swagger": "^6.1.2",
     "@nestjs/typeorm": "^9.0.1",
     "@nestjs/websockets": "^9.0.11",
-    "@okta/okta-auth-js": "^7.3.0",
+    "@okta/okta-auth-js": "^7.11.3",
     "adm-zip": "^0.5.9",
     "analytics-node": "^4.0.1",
     "axios": "^0.25.0",
